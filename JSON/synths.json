@@ -1,1 +1,61 @@
-[ ]
+[
+  {
+    "name": "Doorbell",
+    "type": "Synth",
+    "settings": {
+      "detune": "1200",
+      "portamento": "0.5",
+      "volume": "-11",
+      "oscillator": {
+        "type": "sine",
+        "phase": 0,
+        "partialCount": "0",
+        "partials": []
+      },
+      "envelope": {
+        "attack": "0.01",
+        "attackCurve": "exponential",
+        "decay": "0.1",
+        "decayCurve": "bounce",
+        "sustain": "0.5",
+        "release": "1",
+        "releaseCurve": "linear"
+      }
+    }
+  },
+  {
+    "name": "Galaxy Sound",
+    "type": "Synth",
+    "settings": {
+      "detune": "0",
+      "portamento": "0.5",
+      "volume": "-21",
+      "oscillator": {
+        "type": "fatcustom",
+        "phase": 0,
+        "partialCount": "8",
+        "partials": [
+          "1",
+          "0.01",
+          "1",
+          "0.06",
+          "1",
+          "0.03",
+          "1",
+          "0.05"
+        ],
+        "count": "3",
+        "spread": "20"
+      },
+      "envelope": {
+        "attack": "0.1",
+        "attackCurve": "exponential",
+        "decay": "0.5",
+        "decayCurve": "exponential",
+        "sustain": "0.5",
+        "release": "1",
+        "releaseCurve": "bounce"
+      }
+    }
+  }
+]
