@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "Kirby Sample Melody",
+    "file": "samples/kirby_sample_melody.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  },
+  {
+    "name": "Kirby Sample Connection",
+    "file": "samples/kirby_sample_connection.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  },
+  {
+    "name": "Kirby Sample Bridge",
+    "file": "samples/kirby_sample_bridge.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  }
+]
