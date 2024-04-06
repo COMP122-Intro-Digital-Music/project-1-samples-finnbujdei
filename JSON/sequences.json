@@ -1,1 +1,154 @@
-[ ]
+[
+  {
+    "name": "Countryside Walk",
+    "loop": "4m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "F4",
+        "dur": "4n.",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "A4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "F4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "3:0:0.0",
+        "pitch": "C5",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "City Stroll",
+    "loop": "4m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "1m",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "F#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "Ab4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "G4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "F4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "C5",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "C5",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "C5",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "E4",
+        "dur": "2n.",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "B4",
+        "dur": "2n.",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "C3",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "3:0:0.0",
+        "pitch": "C#3",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "3:0:0.0",
+        "pitch": "F#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "3:1:0.0",
+        "pitch": "F#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "3:2:0.0",
+        "pitch": "G4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "3:3:0.0",
+        "pitch": "A#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "3:2:0.0",
+        "pitch": "E3",
+        "dur": "2n",
+        "vel": "1"
+      }
+    ]
+  }
+]
